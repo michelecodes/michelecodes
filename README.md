@@ -2,7 +2,7 @@
 
 ### Seja bem-vindo!
 
-Sou Michele, analista e desenvolvedora de sistemas formada na Impacta. Nasci e cresci São Paulo e sou tdah - CID F90.0 - com diagnóstico tardio. 
+Sou Michele, analista e desenvolvedora de sistemas de formação e nasci e cresci São Paulo. Tenho tdah - CID F90.0 - com diagnóstico tardio. 
 Estudo a linguagem Java, full stack com ênfase em Backend, na EBAC e planejo seguir nesta especialidade.
 Atuo de forma voluntária no Código Vênus, projeto idealizado por programadoras e designers que busca fomentar o empreendedorismo de mulheres racializadas e ou de baixa renda por meio da criação de sites e identidade visual sem custos de produção.
 Trabalho por meio de plataformas digitais e busco oportunidade para atuar como backend junior.
