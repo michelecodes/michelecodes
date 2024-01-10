@@ -1,9 +1,5 @@
 # Saudações, terraqueos! 👽🖖
-
-### Sou Michele, desenvolvedora Backend formada em ADS e especialista em Java.
-Brasileira de São Paulo capital e CID F90.0 ( com diagnóstico tardio).
-Gosto muito de aprenser e conversar sobre aviação, astronomia e quadrinhos, então meus projetos de estudo serão sobre esses temas, ok??
-
+### Sou Michele, desenvolvedora Backend, formada em ADS e especialista em Java.
 ## Seja bem-vinda/o/e!!!
 
 
