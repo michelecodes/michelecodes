@@ -1,8 +1,6 @@
 ## Saudações, terraqueos! 👽🖖
 
-Sou Michele, analista e desenvolvedora de sistemas de formação e estudo a linguagem Java, full stack com ênfase em Backend.
-Atuo de forma voluntária no Código Vênus, projeto idealizado por programadoras e designers que busca fomentar o empreendedorismo de mulheres racializadas e ou de baixa renda por meio da criação de sites e identidade visual sem custos de produção.
-Trabalho por meio de plataformas digitais e busco oportunidade para atuar como backend junior Java.
+Sou analista e desenvolvedora de sistemas de formação e estudante de Java, full stack com ênfase em Backend. Atuo de forma voluntária no Código Vênus, projeto idealizado por programadoras e designers que busca fomentar o empreendedorismo de mulheres marginalizadas e ou de baixa renda por meio da criação de sites e identidade visual sem custos de produção. Trabalho por meio de plataformas digitais e busco oportunidade para atuar como backend junior Java.
 
  ## Contatos
  
