@@ -1,7 +1,14 @@
 ## Saudações, terraqueos! 👽🖖
 
-Sou estudante de engenharia da computação, analista e desenvolvedora de sistemas e desenvolvedora backend em linguagem Java. Atuo de forma voluntária no Código Vênus, projeto idealizado por programadoras e designers que busca fomentar o empreendedorismo de mulheres marginalizadas e ou de baixa renda por meio da criação de sites e identidade visual sem custos de produção. Trabalho por meio de plataformas digitais e busco oportunidade para atuar como junior em Java.
+Olá! Meu nome é Michele Ribeiro e sou apaixonada pelo mundo da programação, especialmente pelo desenvolvimento backend em Java. Atualmente, estou trilhando minha jornada profissional como Desenvolvedora Backend Java Junior, enquanto também continuo me aprimorando como estudante de Engenharia da Computação.
 
+Com foco na linguagem Java e uma constante sede por aprendizado, busco sempre aprimorar minhas habilidades técnicas e expandir meu conhecimento na área de desenvolvimento de software. Estou sempre em busca de desafios que me permitam crescer e contribuir de forma significativa para projetos inovadores.
+
+Além de minha dedicação ao desenvolvimento de software, tenho interesses diversos que enriquecem minha vida pessoal e profissional. Sou entusiasta da aviação, fascinada pelo mundo dos quadrinhos e apaixonada por astronomia. Esses temas não apenas me inspiram, mas também me ajudam a manter uma mente criativa e aberta para novas possibilidades.
+
+Atualmente, estou baseada na vibrante cidade de São Paulo, capital, onde estou sempre em contato com uma comunidade dinâmica de profissionais de tecnologia.
+
+Estou aberta a novas oportunidades e colaborações que me permitam crescer como desenvolvedora e contribuir de forma significativa para projetos desafiadores.
 <div> 
   <a href = "mailto:hellomichelecodes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
