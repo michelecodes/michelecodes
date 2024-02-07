@@ -4,7 +4,7 @@ Sou Michele, apaixonada pelo mundo da programação, desenvolvedora Backend Java
 
 Com foco na linguagem Java, busco sempre aprimorar minhas habilidades técnicas e expandir meu conhecimento na área de desenvolvimento de software. Estou sempre em busca de desafios que me permitam crescer e contribuir de forma significativa para projetos inovadores.
 
-Além de minha dedicação à t.i., tenho interesses diversos que enriquecem minha vida pessoal e profissional. Sou entusiasta da aviação, fascinada pelo mundo dos quadrinhos e apaixonada por astronomia. Esses temas não apenas me inspiram, mas também me ajudam a manter uma mente criativa.
+Além de me dedicar a t.i., tenho interesses diversos que enriquecem minha vida pessoal e profissional. Sou entusiasta da aviação, fascinada pelo mundo dos quadrinhos e apaixonada por astronomia. Esses temas não apenas me inspiram, mas também me ajudam a manter uma mente criativa.
 
 Estou aberta a novas oportunidades e colaborações que me permitam crescer como desenvolvedora e contribuir de forma significativa em projetos desafiadores.
 
