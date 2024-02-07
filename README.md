@@ -2,11 +2,8 @@
 
 Sou estudante de engenharia da computação, analista e desenvolvedora de sistemas e desenvolvedora backend em linguagem Java. Atuo de forma voluntária no Código Vênus, projeto idealizado por programadoras e designers que busca fomentar o empreendedorismo de mulheres marginalizadas e ou de baixa renda por meio da criação de sites e identidade visual sem custos de produção. Trabalho por meio de plataformas digitais e busco oportunidade para atuar como junior em Java.
 
- ## Contatos
- 
 <div> 
   <a href = "mailto:hellomichelecodes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/michelecodes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## Competências
