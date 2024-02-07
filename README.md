@@ -1,6 +1,6 @@
 ## Saudações, terraqueos! 👽🖖
 
-Olá! Meu nome é Michele Ribeiro e sou apaixonada pelo mundo da programação, especialmente pelo desenvolvimento backend em Java. Atualmente, estou trilhando minha jornada profissional como Desenvolvedora Backend Java Junior, enquanto também continuo me aprimorando como estudante de Engenharia da Computação.
+Meu nome é Michele Ribeiro e sou apaixonada pelo mundo da programação, especialmente pelo desenvolvimento backend em Java. Atualmente, estou trilhando minha jornada profissional como Desenvolvedora Backend Java Junior, enquanto também continuo me aprimorando como estudante de Engenharia da Computação.
 
 Com foco na linguagem Java e uma constante sede por aprendizado, busco sempre aprimorar minhas habilidades técnicas e expandir meu conhecimento na área de desenvolvimento de software. Estou sempre em busca de desafios que me permitam crescer e contribuir de forma significativa para projetos inovadores.
 
