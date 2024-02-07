@@ -6,8 +6,6 @@ Com foco na linguagem Java e uma constante sede por aprendizado, busco sempre ap
 
 Além de minha dedicação ao desenvolvimento de software, tenho interesses diversos que enriquecem minha vida pessoal e profissional. Sou entusiasta da aviação, fascinada pelo mundo dos quadrinhos e apaixonada por astronomia. Esses temas não apenas me inspiram, mas também me ajudam a manter uma mente criativa e aberta para novas possibilidades.
 
-Atualmente, estou baseada na vibrante cidade de São Paulo, capital, onde estou sempre em contato com uma comunidade dinâmica de profissionais de tecnologia.
-
 Estou aberta a novas oportunidades e colaborações que me permitam crescer como desenvolvedora e contribuir de forma significativa para projetos desafiadores.
 <div> 
   <a href = "mailto:hellomichelecodes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
