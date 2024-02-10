@@ -1,6 +1,6 @@
-## Olá, terráqueo 👽🖖
+## Olá, dev! 👽🖖
 
-Sou Michele, @michelecodes em todas as redes, apaixonada por tecnologia, aviação, astronomia e quadrinhos. Atualmente trabalho com -  e estudo - desenvolvimento Backend Java Junior e estudo Engenharia da Computação
+Sou Michele, Mich para os amigos e @michelecodes em todas as redes sociais. Sou apaixonada por tecnologia, aviação, astronomia e histórias em quadrinhos. Atualmente trabalho ( e estudo) desenvolvimento Backend wem linguagem Java. Faço faculdade de Engenharia da Computação, sou formada em ADS e estudo desenvolvimento full stack na EBAC, além de outros desafios e mini cursos ao longo dos dias. Aqui deixo disponível toda a minha trajetória na programação e será um prazer compartilhar o que aprendi com você. Sinta-se a vontade para interagir por aqui, viu? 
 
 ## Contato
 <div> 
