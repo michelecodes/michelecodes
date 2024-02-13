@@ -1,5 +1,5 @@
 ## Olá, dev! 👽🖖
-  Sou Michele, Mich para os amigos e @michelecodes em todas as redes sociais. Sou apaixonada por tecnologia, aviação, astronomia e histórias em quadrinhos. Atualmente, curso Engenharia da Computação, mas sou formada em ADS e estudo desenvolvimento full stack, além de outros desafios e mini cursos ao longo dos dias.
+  Sou Michele, Mich para os amigos e @michelecodes em todas as redes sociais. Sou apaixonada por tecnologia, aviação, astronomia e histórias em quadrinhos. Atualmente, curso Engenharia da Computação, mas sou formada em ADS e estudo desenvolvimento full stack, além de outros desafios e mini cursos onde pratico com frequencia.
 Aqui deixo disponível toda a minha trajetória na programação e será um prazer compartilhar o que aprendi. Sinta-se a vontade para me corrigir, se inspirar e interagir, ok? 
 
 ## Contato
