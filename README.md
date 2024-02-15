@@ -2,6 +2,8 @@
   Sou Michele, Mich para os amigos e @michelecodes em todas as redes sociais. Sou apaixonada por tecnologia, aviação, astronomia e histórias em quadrinhos. Atualmente curso Engenharia da Computação, sou formada em ADS e estudo desenvolvimento full stack.
 Aqui deixo disponível toda a minha trajetória na programação e será um prazer compartilhar o que aprendi. Sinta-se a vontade para me corrigir, se inspirar e interagir, ok? 
 
+### Let's code!
+
 ## Contato
 <div> 
   <a href = "mailto:hellomichelecodes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
